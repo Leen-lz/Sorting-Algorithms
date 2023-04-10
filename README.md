@@ -1,6 +1,8 @@
 # Sorting Algorithms in CPE 4
 
-This repository compiles all the sorting algorithms used in course CPE 4: Data Structure and Algorithms. 
+This repository compiles all the sorting algorithms used in course CPE 4: Data Structure and Algorithms. <br> <br>
+
+### DESCRIPTION FOR EACH ALGORITHM
 
 ## Bubble Sort
 This sorting algorithm moves the greater value to the last index through **swapping**.
