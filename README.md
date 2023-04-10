@@ -9,7 +9,7 @@ This sorting algorithm moves the greater value to the last index through **swapp
 
 ## Insertion Sort
 This sorting algorithm uses to iterate each element as key. The key value is swapped to the **_left_** until it reached to its proper place. <br>
-When values is swapped, values are moved or phased to the **_right_**.
+When values are swapped, values are moved or phased to the **_right_**.
 
 ## Shell Sort
 This sorting algorithm swaps two elements between what we call a ***gap***. The gap is calculated by dividing the size of array by two. After swapping, the gap is
