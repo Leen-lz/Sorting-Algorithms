@@ -1,6 +1,6 @@
 # Sorting Algorithms in CPE 4
 
-This repository compiles all the sorting algorithms used in course CPE 4: Data Structure and Algorithms. <br> <br>
+This repository compiles all the sorting algorithms in C++ Language used in course CPE 4: Data Structure and Algorithms. <br> <br>
 
 ### DESCRIPTION FOR EACH ALGORITHM
 
