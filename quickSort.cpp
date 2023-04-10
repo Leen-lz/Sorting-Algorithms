@@ -41,7 +41,7 @@ int partition(int arr[], int lb, int ub) {
 		}
 	}
 
-	// after the swapping process, swap the pivot and the value of index
+	// after the swapping process, swap the pivot and the value of end index
 	std::swap(arr[lb], arr[end]);
 	return end;
 }
