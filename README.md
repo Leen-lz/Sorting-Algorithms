@@ -13,7 +13,7 @@ When the key is swapped to the left, values before it are shifted to the **_righ
 
 ## ⏭ Shell Sort
 This sorting algorithm swaps two elements between what we call a ***gap***. The gap is calculated by dividing the size of array by two. After swapping, the gap is
-now divided by 2^2 ... n^2. When the gap = 1, apply ***insertion sort***.
+now divided by 2^2 (4) ... 2^n. When the gap = 1, apply ***insertion sort***.
 
 ## ⏭ Heap Sort
 This sorting algorithm follos the *maximum heap property* of *binary tree* data structure. The value of the node is greater than its value of its child.
