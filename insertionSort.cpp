@@ -1,13 +1,13 @@
 #include <iostream>
 
-void insertionSort(int arr[], int size) {
+void insertionSort(int arr[], int SIZE) {
 	// check each element
 	for (int pass = 1; pass < SIZE; pass++) {
 		int key = arr[pass];
 		int j = pass - 1;
 
 		// find the right position
-		while (j >= 0 && temp < arr[j]) {
+		while (j >= 0 && key < arr[j]) {
 			arr[j + 1] = arr[j];
 			j--;
 		}
