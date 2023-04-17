@@ -1,6 +1,6 @@
 #include <iostream>
 
-void insertionSort(int arr[], size) {
+void insertionSort(int arr[], int size) {
 	// check each element
 	for (int pass = 1; pass < SIZE; pass++) {
 		int key = arr[pass];
