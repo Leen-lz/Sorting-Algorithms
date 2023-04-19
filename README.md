@@ -22,13 +22,22 @@ The array needs to undergo ***heapify process*** (max heap) then apply ***heap d
 ## ⏭ Merge Sort
 A divide and conquer sorting algorithm where the array is divided into two until the size of the array is **1**. <br>
 Then use the ***merging process*** to combine the divided array. If the size is 2 during merging, compare only the two elements.
+***program is not available at the moment.***
 
 ## ⏭ Quick Sort
 A divide and conquer sorting algorithm that uses a lower bound (first element), upper bound (last element), and pivot as variables. The pivot in this case, is the lower bound. Then we partition the array into two, where left partition values < pivot value > right partition values. Apply recursion to each partition until array size = **1**.
 
 ## ⏭ Bucket Sort
 
+***program is not available at the moment.***
+
+## ⏭ Counting Sort
+
+***program is not available at the moment.***
+
 ## ⏭ Radix Sort
+A non-comparison-based sorting algorithm where it checks and sorts from the least significant digit (rightmost digit) to the most significant digit (leftmost digit). <br>
+***program is not available at the moment.***
 
 <br>
 <br>
